@@ -1,4 +1,4 @@
-# Imersão Dev - Jogo de Jokempô 🕹️
+# Imersão Dev - Jogo de Jokempô
 
 Projeto desenvolvido durante a Imersão Dev da Alura, com foco em lógica de programação e interatividade utilizando JavaScript. A aplicação simula o clássico jogo pedra, papel e tesoura, onde o usuário joga contra o computador.
 
